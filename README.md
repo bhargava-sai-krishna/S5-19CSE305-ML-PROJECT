@@ -7,7 +7,7 @@ This project focuses on predicting university admission outcomes using various m
 - **Tech Stack**: Python, Scikit-learn, TensorFlow, Pandas, Matplotlib, Seaborn
 - **Dataset**: Over 10,000 student records, including features like GRE score, TOEFL score, CGPA, SOP, LOR, and research experience.
 - **Algorithms Used**: Decision Tree, Naive Bayes, Support Vector Machine (SVM), Gradient Boosting, Neural Networks
-- **Performance**: Achieved 85% accuracy using Neural Networks and Gradient Boosting.
+- **Performance**: Achieved over 92\% accuracy using Naive Bayes, 98\% with Gradient Boost, 93\% accuracy with Neural Network, 91\% accuracy with SVM.
 - **Visualization**: Model performance and key predictors are visualized to compare accuracy, precision, and recall.
 - **Contact**: bhargavasai78@gmail.com
 - **Year**: 2024
