@@ -9,7 +9,7 @@ This project focuses on predicting university admission outcomes using various m
 - **Algorithms Used**: Decision Tree, Naive Bayes, Support Vector Machine (SVM), Gradient Boosting, Neural Networks
 - **Performance**: Achieved 85% accuracy using Neural Networks and Gradient Boosting.
 - **Visualization**: Model performance and key predictors are visualized to compare accuracy, precision, and recall.
-- **Contact**: amarnathrao36@gmail.com
+- **Contact**: bhargavasai78@gmail.com
 - **Year**: 2024
 
 ### Project Description
